@@ -19,7 +19,7 @@
 
     $(function(){
     var image = new Image();
-       image.src='https://s3.amazonaws.com/gifs-seangreene/future-food-animation-final.gif';
+       image.src='https://s3.amazonaws.com/gifs-seangreene/future-food-animation-2.gif';
      $('#food-image').click(function(){
        $(this).attr('src',image.src);
      }); 
